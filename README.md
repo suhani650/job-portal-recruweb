@@ -1,5 +1,7 @@
 # Ardhnarishwar Job Portal
 
+> Full-stack AI-powered recruitment platform for candidates, recruiters, and administrators.
+
 Ardhnarishwar Job Portal and Admin Portal.
 
 ## Live Websites
